@@ -1,0 +1,2511 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-22 23:45+0000\n"
+"PO-Revision-Date: 2019-04-19 20:30+0900\n"
+"Last-Translator: Kenichi Terashita <kterashita@fortinet.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.1\n"
+
+#: static/js/SearchPlugin.js:27
+msgid "to"
+msgstr "に"
+
+#: static/js/SearchPlugin.js:62
+msgid "Filter …"
+msgstr "フィルタ ..."
+
+#: static/js/SearchPlugin.js:63
+msgid "Clear all removable filters"
+msgstr "すべてのフィルタをクリア"
+
+#: static/js/SearchPlugin.js:1229
+msgid "From Dashboard: Scanning Statistics"
+msgstr "ダッシュボードから：スキャン統計"
+
+#: static/js/SearchPlugin.js:1230
+msgid "From URL Summary Report: Scanning Statistics"
+msgstr "URL要約レポートから：スキャン統計"
+
+#: static/js/SearchPlugin.js:1231
+msgid "From File Summary Report: Top Targetted Hosts"
+msgstr "ファイル要約レポートから：上位のターゲットホスト"
+
+#: static/js/SearchPlugin.js:1232
+msgid "From File Summary Report: Top Malware"
+msgstr "ファイル要約レポートから：トップマルウェア"
+
+#: static/js/SearchPlugin.js:1233
+msgid "From Scan Input File Ondemand"
+msgstr "スキャン入力ファイルから オンデマンド"
+
+#: static/js/SearchPlugin.js:1234
+msgid "From Scan Input URL Ondemand"
+msgstr "スキャン入力URLから オンデマンド"
+
+#: static/js/SearchPlugin.js:1235
+msgid "From HA-Cluster File Job Summary"
+msgstr "HAクラスタファイルのジョブ要約から"
+
+#: static/js/SearchPlugin.js:1236
+msgid "From HA-Cluster URL Job Summary"
+msgstr "HAクラスタURLジョブの要約から"
+
+#: static/js/SearchPlugin.js:1237
+msgid "From Network Share Scan Results"
+msgstr "ネットワーク共有スキャンの結果から"
+
+#: static/js/about/firmware/download_upgrade.js:144
+#: static/js/about/firmware/upload_upgrade.js:149
+msgid "Sandbox will reboot soon."
+msgstr "FortiSandboxはもうじき再起動します。"
+
+#: static/js/about/firmware/fw_card.js:21 static/js/about/firmware/index.js:109
+#: static/js/about/firmware/sysupgrade.js:84 static/js/azure/config.js:110
+#: static/js/azure/config.js:136 static/js/dashboard/app.js:284
+#: static/js/dashboard/app.js:432 static/js/dashboard/app.js:462
+#: static/js/ha_cluster/management-action.js:114
+#: static/js/ha_cluster/management-action.js:138
+#: static/js/ha_cluster/management.js:116
+#: static/js/scan_policy/filter_list/item_card.js:63
+#: static/js/scan_policy/filter_list/type_panel.js:98
+#: static/js/scan_policy/que_pri.js:98
+msgid "Attention"
+msgstr "注意"
+
+#: static/js/about/firmware/fw_card.js:22 static/js/about/firmware/index.js:110
+#: static/js/about/firmware/sysupgrade.js:85 static/js/admin/config_admin.js:59
+#: static/js/admin/config_admin.js:73 static/js/admin/config_admin.js:83
+#: static/js/admin/config_admin.js:164 static/js/admin_profiles/main.js:84
+#: static/js/aws/interaction.js:67 static/js/dashboard/app.js:286
+#: static/js/dashboard/app.js:434 static/js/dashboard/app.js:464
+#: static/js/device_profiles/main.js:87 static/js/download_center/main.js:63
+#: static/js/forticlient/controller.js:243
+#: static/js/ha_cluster/health_check_edit.js:50
+#: static/js/ha_cluster/management-action.js:115
+#: static/js/ha_cluster/management-action.js:139
+#: static/js/ha_cluster/management.js:117 static/js/job_detail/app.js:127
+#: static/js/job_detail/tree_view_details.js:503
+#: static/js/report_center/CustomActions.js:43
+#: static/js/report_center/index.js:174 static/js/report_center/index.js:219
+#: static/js/scan_input/ns-scan-details.js:171
+#: static/js/scan_job_detail/tracer_behavior_detail.js:172
+#: static/js/scan_policy/filter_list/item_card.js:64
+#: static/js/scan_policy/filter_list/type_panel.js:99
+#: static/js/scan_policy/overridden_verdicts.js:18
+#: static/js/scan_policy/que_pri.js:100
+#: static/js/system/config-network-intf.js:41
+#: static/js/system/system_config/controller.js:184
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: static/js/about/firmware/fw_card.js:23 static/js/about/firmware/index.js:111
+#: static/js/about/firmware/sysupgrade.js:86 static/js/admin/config_admin.js:58
+#: static/js/admin/config_admin.js:72 static/js/admin/config_admin.js:82
+#: static/js/admin/config_admin.js:165 static/js/admin_profiles/main.js:85
+#: static/js/aws/interaction.js:68 static/js/dashboard/app.js:287
+#: static/js/dashboard/app.js:435 static/js/dashboard/app.js:465
+#: static/js/device_profiles/main.js:88 static/js/download_center/main.js:64
+#: static/js/forticlient/controller.js:244
+#: static/js/ha_cluster/health_check_edit.js:51
+#: static/js/ha_cluster/management-action.js:116
+#: static/js/ha_cluster/management-action.js:140
+#: static/js/ha_cluster/management.js:118 static/js/job_detail/app.js:128
+#: static/js/job_detail/tree_view_details.js:504
+#: static/js/report_center/CustomActions.js:44
+#: static/js/report_center/index.js:175 static/js/report_center/index.js:220
+#: static/js/scan_input/ns-scan-details.js:172
+#: static/js/scan_job_detail/tracer_behavior_detail.js:173
+#: static/js/scan_policy/filter_list/item_card.js:65
+#: static/js/scan_policy/filter_list/type_panel.js:100
+#: static/js/scan_policy/overridden_verdicts.js:19
+#: static/js/scan_policy/que_pri.js:99
+#: static/js/system/config-network-intf.js:42
+#: static/js/system/system_config/controller.js:185
+msgid "OK"
+msgstr "OK"
+
+#: static/js/about/firmware/fw_card.js:24
+msgid ""
+"You can backup your current system configuration and restore it at a later "
+"time."
+msgstr "現在のシステム設定をバックアップして後で復元することができます。"
+
+#: static/js/about/firmware/index.js:36
+msgid ""
+"FortiSandbox does not support Windows XP OS any longer. Please set its clone "
+"number to 0 and migrate to use Windows 7 OS or later in order to upgrade the "
+"firmware."
+msgstr ""
+
+#: static/js/about/firmware/index.js:112
+msgid ""
+"The selected firmware image will be downloaded and installed, it will cause "
+"the system to reboot, do you want to proceed?"
+msgstr ""
+"選択したファームウェアイメージがダウンロードされてインストールされます。シス"
+"テムが再起動します。続行しますか？"
+
+#: static/js/about/firmware/server_check.js:4
+#: static/js/vmimages/server_check.js:57
+msgid "Server will be shutdown for rebooting soon."
+msgstr "再起動のためにサーバはシャットダウンされます。"
+
+#: static/js/about/firmware/server_check.js:8
+msgid ""
+"Server is now rebooting. You will be redirected to the login page after "
+"server is up."
+msgstr ""
+"サーバーがリブート中です。サーバーが起動すると、ログインページにリダイレクト"
+"されます。"
+
+#: static/js/about/firmware/server_check.js:12
+msgid ""
+"Firmware image has been successfully installed. You will be redirected in 60 "
+"seconds."
+msgstr ""
+"ファームウェアイメージが正常にインストールされました。 60秒後にリダイレクトさ"
+"れます。"
+
+#: static/js/about/firmware/sysupgrade.js:83
+msgid "Are you sure you want to upgrade your firmware with file "
+msgstr "ファームウェアをファイルでアップグレードしてよろしいですか "
+
+#: static/js/admin/config_admin.js:56
+msgid "Please enter your username for "
+msgstr "ユーザ名を入力してください"
+
+#: static/js/admin/config_admin.js:69
+msgid "Please enter your password"
+msgstr "パスワードを入力してください"
+
+#: static/js/admin/config_admin.js:79
+msgid "Two-Factor Authentication token is required."
+msgstr "2要素認証トークンが必要です。"
+
+#: static/js/admin/config_admin.js:88
+msgid " login test for: "
+msgstr " ログインテスト： "
+
+#: static/js/admin/config_admin.js:92
+msgid " login test result for: "
+msgstr " ログインテストの結果： "
+
+#: static/js/admin/config_admin.js:118 static/js/azure/config.js:107
+#: static/js/azure/config.js:117 static/js/azure/config.js:133
+#: static/js/azure/config.js:142 static/js/scan_input/connection_test.js:37
+msgid "Close"
+msgstr "クローズ"
+
+#: static/js/admin/config_admin.js:122
+msgid "Retry"
+msgstr "リトライ"
+
+#: static/js/admin/config_admin.js:159
+msgid "Delete the two factor authentication?"
+msgstr "二要素認証を削除しますか？"
+
+#: static/js/admin/config_admin.js:162
+msgid "Are you sure you want to delete the following administrator(s):"
+msgstr "次の管理者を削除してもよろしいですか？"
+
+#: static/js/admin/config_admin.js:216
+msgid "Administrator admin cannot be deleted"
+msgstr "管理者 Admin は削除できません。"
+
+#: static/js/admin/device_user.js:82
+msgid "At least one device has to be selected."
+msgstr "少なくとも1つのデバイスは選択しなければなりません。"
+
+#: static/js/admin/edit.js:260
+msgid "The maximum timeout is 1200 seconds"
+msgstr ""
+
+#: static/js/admin/edit.js:265
+msgid "The minimum timeout is 30 seconds"
+msgstr ""
+
+#: static/js/admin/edit.js:274
+msgid "The maximum depth is 10"
+msgstr ""
+
+#: static/js/admin/edit.js:279
+msgid "The minimum depth is 0"
+msgstr ""
+
+#: static/js/admin/edit.js:359
+msgid "Delete Two Factor Authentication?"
+msgstr "二要素認証を削除しますか？"
+
+#: static/js/admin/edit.js:360
+msgid "Do you want to delete the two factor authentication?"
+msgstr "2要素認証を削除しますか？"
+
+#: static/js/admin/edit.js:361
+msgid "No"
+msgstr "いいえ"
+
+#: static/js/admin/edit.js:362 static/js/scan_input/mta_qt/controller.js:142
+msgid "Yes"
+msgstr "はい"
+
+#: static/js/admin/user_defined_device.js:40
+msgid "The new serial you entered cannot be more than "
+msgstr "新しいシリアル番号は次の値以上には出来ません: "
+
+#: static/js/admin/user_defined_device.js:49
+msgid ""
+"The new serial you entered contains special character, which is not allowed."
+msgstr "入力した新しいシリアル番号に許可されていない特殊文字が含まれています。"
+
+#: static/js/admin/user_defined_device.js:58
+msgid "The new serial you entered contains white space, which is not allowed."
+msgstr "入力した新しいシリアル番号に許可されていない空白文字が含まれています。"
+
+#: static/js/admin/user_defined_device.js:69
+msgid "The new serial you entered already exist in device selection."
+msgstr "入力した新しいシリアル番号は、すでデバイス選択に存在します。"
+
+#: static/js/admin/user_defined_device.js:83
+msgid "New serial cannot be empty."
+msgstr "新しいシリアル番号を入力してください。"
+
+#: static/js/admin/user_defined_device.js:113
+msgid "The new domain/vdom you entered cannot be more than "
+msgstr "入力した新しいドメイン/仮想ドメインは、次の値以上には出来ません: "
+
+#: static/js/admin/user_defined_device.js:122
+msgid ""
+"The new domain/vdom you entered contains special character, which is not "
+"allowed."
+msgstr ""
+"入力した新しいドメイン/仮想ドメインには許可されていない特殊文字が含まれていま"
+"す。"
+
+#: static/js/admin/user_defined_device.js:131
+msgid ""
+"The new domain/vdom you entered contains white space, which is not allowed."
+msgstr "入力した新しいVDOMに許可されていない空白文字が含まれています。"
+
+#: static/js/admin/user_defined_device.js:140
+msgid "The new device you entered already exist in device selection."
+msgstr "入力した新しいVDOMは、すでデバイス選択に存在します。"
+
+#: static/js/admin/user_defined_device.js:252
+msgid "Are you sure you want to delete this device?"
+msgstr "このデバイスを削除してもよろしいですか？"
+
+#: static/js/admin_profiles/app.js:1 static/js/device_profiles/app.js:7
+msgid "Name cannot be empty."
+msgstr "名前を空にすることはできません。"
+
+#: static/js/admin_profiles/app.js:2 static/js/device_profiles/app.js:8
+#: static/js/device_profiles/app.js:37
+msgid "Comment out of Range."
+msgstr "名前が範囲外です。"
+
+#: static/js/admin_profiles/app.js:3 static/js/device_profiles/app.js:9
+msgid "Name out of range."
+msgstr "範囲外のIPアドレス"
+
+#: static/js/admin_profiles/app.js:4 static/js/device_profiles/app.js:10
+msgid "Name contains special characters."
+msgstr "名前に特殊文字が含まれています。"
+
+#: static/js/admin_profiles/app.js:5 static/js/device_profiles/app.js:11
+msgid "Name already exists."
+msgstr "名前はすでに存在します。"
+
+#: static/js/admin_profiles/app.js:6 static/js/device_profiles/app.js:12
+msgid "Comment contains special characters."
+msgstr "コメントに特殊文字が含まれています。"
+
+#: static/js/admin_profiles/app.js:7
+msgid "Admin Profile successfully saved."
+msgstr "管理者プロフィールを保存しました。 "
+
+#: static/js/admin_profiles/main.js:6 static/js/device_profiles/main.js:6
+#: static/js/system/config-network-intf.js:7
+#: static/js/system/system_config/controller.js:101
+msgid "View"
+msgstr "ビュー"
+
+#: static/js/admin_profiles/main.js:48
+msgid "Please make sure profile(s) is not used by any user"
+msgstr "どのユーザーもプロファイルを使用していないことを確認してください"
+
+#: static/js/admin_profiles/main.js:82
+msgid "Are you sure you want to delete the selected Admin Profile"
+msgstr "このデバイスを削除してもよろしいですか？"
+
+#: static/js/aws/interaction.js:65
+msgid "Are you sure you want to establish the Remote Desktop Tunnel?"
+msgstr "リモートデスクトップトンネルを確立してよろしいですか？"
+
+#: static/js/aws/interaction.js:66
+msgid "Please be aware that the existing Tunnel will be terminated"
+msgstr "既存のトンネルが終了します。確認してください。"
+
+#: static/js/azure/config.js:115 static/js/azure/config.js:140
+msgid "Failed to test Connection"
+msgstr "接続のテストに失敗しました"
+
+#: static/js/callback_filtertable_defs.js:6
+#: static/js/callback_filtertable_defs.js:46
+#: static/js/callback_filtertable_defs.js:83
+#: static/js/threat_profile/alert_profile_helpers.js:28
+#: static/js/threat_profile/alert_profile_helpers.js:72
+#: static/js/threat_profile/alert_profile_helpers.js:124
+#: static/js/threat_profile/alert_profile_helpers.js:170
+#: static/js/threat_profile/alert_profile_helpers.js:215
+#: static/js/threat_profile/alert_profile_helpers.js:254
+#: static/js/threat_profile/alert_profile_helpers.js:292
+#: static/js/threat_profile/alert_profile_helpers.js:337
+#: static/js/threat_profile/alert_profile_helpers.js:374
+#: static/js/threat_profile/alert_profile_helpers.js:418
+#: static/js/threat_profile/alert_profile_helpers.js:476
+#: static/js/threat_profile/alert_profile_helpers.js:619
+msgid "Detected"
+msgstr "検知"
+
+#: static/js/callback_filtertable_defs.js:15
+#: static/js/filtertable/fTableSearchConfig.js:12
+#: static/js/filtertable/fTableSearchConfig.js:237
+#: static/js/threat_profile/alert_profile_helpers.js:262
+#: static/js/threat_profile/alert_profile_helpers.js:300
+#: static/js/threat_profile/alert_profile_helpers.js:835
+msgid "Backdoor"
+msgstr "バックドア"
+
+#: static/js/callback_filtertable_defs.js:23
+#: static/js/callback_filtertable_defs.js:61
+#: static/js/callback_filtertable_defs.js:126
+#: static/js/filtertable/fTableSearchConfig.js:28
+#: static/js/filtertable/fTableSearchConfig.js:54
+#: static/js/filtertable/fTableSearchConfig.js:89
+#: static/js/filtertable/fTableSearchConfig.js:174
+#: static/js/filtertable/fTableSearchConfig.js:245
+#: static/js/filtertable/fTableSearchConfig.js:271
+#: static/js/filtertable/fTableSearchConfig.js:289
+#: static/js/filtertable/fTableSearchConfig.js:331
+#: static/js/filtertable/fTableSearchConfig.js:442
+#: static/js/filtertable/fTableSearchConfig.js:488
+#: static/js/filtertable/fTableSearchConfig.js:541
+#: static/js/filtertable/fTableSearchConfig.js:800
+#: static/js/operation_center/column.js:33
+#: static/js/threat_profile/alert_profile_helpers.js:43
+#: static/js/threat_profile/alert_profile_helpers.js:94
+#: static/js/threat_profile/alert_profile_helpers.js:140
+#: static/js/threat_profile/alert_profile_helpers.js:186
+#: static/js/threat_profile/alert_profile_helpers.js:231
+#: static/js/threat_profile/alert_profile_helpers.js:270
+#: static/js/threat_profile/alert_profile_helpers.js:308
+#: static/js/threat_profile/alert_profile_helpers.js:352
+#: static/js/threat_profile/alert_profile_helpers.js:389
+#: static/js/threat_profile/alert_profile_helpers.js:461
+#: static/js/threat_profile/alert_profile_helpers.js:520
+#: static/js/threat_profile/alert_profile_helpers.js:634
+#: static/js/threat_profile/alert_profile_helpers.js:698
+#: static/js/threat_profile/alert_profile_helpers.js:844
+#: static/js/threat_profile/alert_profile_helpers.js:915
+#: static/js/threat_profile/alert_profile_helpers.js:1101
+msgid "Source"
+msgstr "送信元"
+
+#: static/js/callback_filtertable_defs.js:30
+#: static/js/callback_filtertable_defs.js:68
+#: static/js/filtertable/fTableSearchConfig.js:20
+#: static/js/filtertable/fTableSearchConfig.js:38
+#: static/js/filtertable/fTableSearchConfig.js:158
+#: static/js/filtertable/fTableSearchConfig.js:184
+#: static/js/filtertable/fTableSearchConfig.js:202
+#: static/js/filtertable/fTableSearchConfig.js:263
+#: static/js/filtertable/fTableSearchConfig.js:307
+#: static/js/filtertable/fTableSearchConfig.js:341
+#: static/js/filtertable/fTableSearchConfig.js:367
+#: static/js/filtertable/fTableSearchConfig.js:460
+#: static/js/filtertable/fTableSearchConfig.js:514
+#: static/js/filtertable/fTableSearchConfig.js:755
+#: static/js/threat_profile/alert_profile_helpers.js:50
+#: static/js/threat_profile/alert_profile_helpers.js:101
+#: static/js/threat_profile/alert_profile_helpers.js:147
+#: static/js/threat_profile/alert_profile_helpers.js:193
+#: static/js/threat_profile/alert_profile_helpers.js:238
+#: static/js/threat_profile/alert_profile_helpers.js:277
+#: static/js/threat_profile/alert_profile_helpers.js:315
+#: static/js/threat_profile/alert_profile_helpers.js:359
+#: static/js/threat_profile/alert_profile_helpers.js:396
+#: static/js/threat_profile/alert_profile_helpers.js:643
+#: static/js/threat_profile/alert_profile_helpers.js:742
+#: static/js/threat_profile/alert_profile_helpers.js:804
+msgid "Destination"
+msgstr "宛先"
+
+#: static/js/callback_filtertable_defs.js:54
+#: static/js/filtertable/fTableSearchConfig.js:46
+#: static/js/filtertable/fTableSearchConfig.js:281
+#: static/js/job_detail/tree_view_details.js:9
+#: static/js/job_detail/tree_view_details.js:173
+#: static/js/scan_job_detail/tracer_behavior_detail.js:9
+#: static/js/system/system_config/column.js:9
+#: static/js/system/system_config/column.js:48
+#: static/js/system/system_config/column.js:81
+#: static/js/threat_profile/alert_profile_helpers.js:345
+#: static/js/threat_profile/alert_profile_helpers.js:382
+#: static/js/threat_profile/alert_profile_helpers.js:906
+msgid "Name"
+msgstr "名前"
+
+#: static/js/callback_filtertable_defs.js:90
+#: static/js/filtertable/fTableSearchConfig.js:64
+#: static/js/filtertable/fTableSearchConfig.js:410
+#: static/js/scan_job_detail/tracer_behavior_detail.js:21
+#: static/js/threat_profile/alert_profile_helpers.js:432
+#: static/js/threat_profile/alert_profile_helpers.js:484
+#: static/js/threat_profile/alert_profile_helpers.js:1083
+msgid "Category"
+msgstr "カテゴリ"
+
+#: static/js/callback_filtertable_defs.js:97
+#: static/js/filtertable/fTableSearchConfig.js:80
+#: static/js/filtertable/fTableSearchConfig.js:136
+#: static/js/filtertable/fTableSearchConfig.js:226
+#: static/js/filtertable/fTableSearchConfig.js:399
+#: static/js/filtertable/fTableSearchConfig.js:598
+#: static/js/filtertable/fTableSearchConfig.js:658
+#: static/js/filtertable/fTableSearchConfig.js:715
+#: static/js/filtertable/fTableSearchConfig.js:791
+#: static/js/job_detail/tree_view_details.js:4 static/js/ondemand/column.js:29
+#: static/js/scan_input/mta_qt/column.js:34
+#: static/js/scan_job_detail/tracer_behavior_detail.js:7
+#: static/js/threat_profile/alert_profile_helpers.js:87
+#: static/js/threat_profile/alert_profile_helpers.js:154
+#: static/js/threat_profile/alert_profile_helpers.js:425
+#: static/js/threat_profile/alert_profile_helpers.js:491
+#: static/js/threat_profile/alert_profile_helpers.js:795
+#: static/js/threat_profile/alert_profile_helpers.js:1045
+msgid "Rating"
+msgstr "レーティング"
+
+#: static/js/callback_filtertable_defs.js:104
+#: static/js/filtertable/fTableSearchConfig.js:72
+#: static/js/filtertable/fTableSearchConfig.js:418
+#: static/js/scan_job_detail/tracer_behavior_detail.js:24
+#: static/js/threat_profile/alert_profile_helpers.js:439
+#: static/js/threat_profile/alert_profile_helpers.js:498
+#: static/js/threat_profile/alert_profile_helpers.js:1092
+msgid "Host"
+msgstr "ホスト"
+
+#: static/js/callback_filtertable_defs.js:111
+#: static/js/filtertable/fTableSearchConfig.js:105
+#: static/js/filtertable/fTableSearchConfig.js:434
+#: static/js/filtertable/fTableSearchConfig.js:568
+#: static/js/filtertable/fTableSearchConfig.js:607
+#: static/js/filtertable/fTableSearchConfig.js:648
+#: static/js/ondemand/ondemand_file.js:16
+#: static/js/scan_job_detail/tracer_behavior_detail.js:14
+#: static/js/threat_profile/alert_profile_helpers.js:446
+#: static/js/threat_profile/alert_profile_helpers.js:505
+#: static/js/threat_profile/alert_profile_helpers.js:1128
+msgid "URL"
+msgstr "URL"
+
+#: static/js/callback_filtertable_defs.js:119
+#: static/js/filtertable/fTableSearchConfig.js:97
+#: static/js/filtertable/fTableSearchConfig.js:426
+#: static/js/filtertable/fTableSearchConfig.js:782
+#: static/js/threat_profile/alert_profile_helpers.js:454
+#: static/js/threat_profile/alert_profile_helpers.js:513
+#: static/js/threat_profile/alert_profile_helpers.js:1119
+msgid "Type"
+msgstr "タイプ"
+
+#: static/js/callback_filtertable_defs.js:142
+msgid ""
+"Enter a search string in the format of:\n"
+"\n"
+"'[column name 1]=[value 1],[column name 2]=[value 2]'\n"
+"\n"
+"(e.g. 'backdoor=backdoor-file,source=1.1.1.1')"
+msgstr ""
+"検索文字列を次の形式で入力してください:\n"
+"\n"
+"'[列名1] = [値1]、[列名2] = [値2]'\n"
+"\n"
+"（例： 'backdoor = backdoor-file、source = 1.1.1.1'）"
+
+#: static/js/callback_filtertable_defs.js:182
+msgid "Last 24 Hours"
+msgstr "直近の24時間"
+
+#: static/js/callback_filtertable_defs.js:188
+msgid "Last 7 Days"
+msgstr "直近の7日"
+
+#: static/js/callback_filtertable_defs.js:194
+msgid "Last 4 Weeks"
+msgstr "直近の4週間"
+
+#: static/js/callback_filtertable_defs.js:210
+msgid "Export Data"
+msgstr "データのエクスポート"
+
+#: static/js/change_list_controls.js:172
+#: static/js/filtertable/filtertable_helpers.js:97
+#: static/js/table/filters.js:102
+msgid ""
+"No records have been detected. Please make sure records are present prior to "
+"generating a snapshot report."
+msgstr ""
+"レコードが検出されませんでした。スナップショットレポートを作成する前に、レ"
+"コードが存在することを確認してください。"
+
+#: static/js/change_list_controls.js:175
+#: static/js/filtertable/filtertable_helpers.js:109
+msgid "Invalid job count."
+msgstr "不正なジョブカウント"
+
+#: static/js/circle_packing/controller.js:1
+msgid "No data to display."
+msgstr "表示するデータがありません"
+
+#: static/js/circle_packing/drawing.js:1
+msgid "For Network Alert events, please go to Network Alerts page for details."
+msgstr ""
+"ネットワークアラートイベントについては、詳細についてネットワークアラートペー"
+"ジをご覧ください。"
+
+#: static/js/circle_packing/drawing.js:2
+msgid ""
+"For Network Share events, please go to Scan Input -> Network Share page for "
+"details."
+msgstr ""
+"ネットワーク共有イベントの詳細については、[入力のスキャン]-> [ネットワーク共"
+"有]ページにアクセスしてください。"
+
+#: static/js/dashboard/app.js:7
+msgid "Widget Selection"
+msgstr "ウィジェット選択"
+
+#: static/js/dashboard/app.js:195
+msgid "Widget Settings"
+msgstr "ウィジェット設定"
+
+#: static/js/dashboard/app.js:285
+msgid "Are you sure you want to remove this widget?"
+msgstr "このウィジェットを削除してもよろしいですか？"
+
+#: static/js/dashboard/app.js:316
+msgid "Widget is successfully removed."
+msgstr "ウィジェットは削除されました。"
+
+#: static/js/dashboard/app.js:346
+msgid "ALL Devices"
+msgstr "すべての機器"
+
+#: static/js/dashboard/app.js:370 static/js/dashboard/app.js:407
+msgid "Dashboard layout is successfully saved."
+msgstr "ダッシュボードのレイアウトが正常に保存されました。"
+
+#: static/js/dashboard/app.js:382
+msgid "New widget is successfully added."
+msgstr "新しいウィジェットが正常に追加されました。"
+
+#: static/js/dashboard/app.js:433
+msgid "You will lose current layout if you reset, are you sure?"
+msgstr "リセットすれば現在のレイアウトを失います、よろしいですか？"
+
+#: static/js/dashboard/app.js:440
+msgid "Dashboard layout is successfully reset."
+msgstr "ダッシュボードのレイアウトは正常にリセットされました。"
+
+#: static/js/dashboard/app.js:463
+msgid "You will lose current layout if you clear, are you sure?"
+msgstr "クリアすれば現在のレイアウトを失います、よろしいですか？"
+
+#: static/js/dashboard/widgets/chart/normal.js:22
+#: static/js/dashboard/widgets/chart/pie.js:43 static/js/drawCharts.js:12
+msgid "No data to display"
+msgstr "表示するデータがありません"
+
+#: static/js/dashboard/widgets/settings.js:25
+msgid "Must be between 10 to 3600 seconds (0 to disable)."
+msgstr "10〜3600秒の間で指定（無効にするには0）。"
+
+#: static/js/dashboard/widgets/settings.js:52
+msgid "Widget setting is successfully changed."
+msgstr "ウィジェットの設定が変更されました。"
+
+#: static/js/device_profiles/app.js:13
+msgid "Device group was successfully saved."
+msgstr "デバイスグループが正常に保存されました。"
+
+#: static/js/device_profiles/main.js:50
+msgid "Please make sure group(s) is not used by any user"
+msgstr "グループがどのユーザーによっても使用されていないことを確認してください"
+
+#: static/js/device_profiles/main.js:85
+msgid "Are you sure you want to delete the selected Device Group"
+msgstr "このデバイスグループを削除してもよろしいですか"
+
+#: static/js/download_center/main.js:8 static/js/download_center/main.js:75
+msgid "Quick Download"
+msgstr "クイックダウンロード"
+
+#: static/js/download_center/main.js:46
+#, fuzzy
+#| msgid "Failed to download report. "
+msgid "Failed to download file. "
+msgstr "レポートのダウンロードに失敗しました。"
+
+#: static/js/download_center/main.js:48
+#, fuzzy
+#| msgid "Failed to dwonload report. "
+msgid "Failed to dwonload file. "
+msgstr "レポートのダウンロードに失敗しました。"
+
+#: static/js/download_center/main.js:48 static/js/report_center/index.js:165
+#: static/js/report_center/index.js:199 static/js/report_center/index.js:206
+#: static/js/report_center/index.js:245 static/js/report_center/index.js:252
+msgid "Error!"
+msgstr "エラー"
+
+#: static/js/download_center/main.js:62 static/js/job_detail/app.js:126
+#: static/js/job_detail/tree_view_details.js:501
+#: static/js/scan_job_detail/tracer_behavior_detail.js:171
+msgid "Caution: The file may contain harmful software."
+msgstr ""
+
+#: static/js/drilldown_pdf_helpers.js:125
+#: static/js/drilldown_pdf_helpers.js:190
+#: static/js/table/search/report_helpers.js:85
+msgid "Finished!"
+msgstr "完了"
+
+#: static/js/drilldown_pdf_helpers.js:152
+#: static/js/table/search/report_helpers.js:48
+msgid ""
+"A report is scheduled to generate. It can be found in Log & Report > Report "
+"Center page after being finished. You can close this window now or wait till "
+"report is ready."
+msgstr ""
+"レポートが生成される予定です。 完了したら、ログとレポート>レポートセンター"
+"ページに表示されます。 今すぐこのウィンドウを閉じるか、レポートの準備ができる"
+"まで待つことができます。"
+
+#: static/js/filtertable/FilterTable.js:51
+msgid "Invalid event specified (\"click\" or \"change\" events accepted)"
+msgstr ""
+"不正なイベントが指定されました（「クリック」か「変更」イベントが有効です）"
+
+#: static/js/filtertable/FilterTable.js:323
+msgid "Drilldown table instance is not detectable."
+msgstr "ドリルダウンテーブルが見つかりませんでした。"
+
+#: static/js/filtertable/FilterTable.js:560
+#, javascript-format
+msgid "Duplicate filter supplied (\"%s\") and is being ignored"
+msgstr "重複したフィルタが設定され (\"%s\") 無効化されました。"
+
+#: static/js/filtertable/FilterTable.js:582
+#: static/js/filtertable/FilterTable.js:3396
+msgid "Conflicting search filter(s) detected/ignored."
+msgstr "競合した検索フィルタが検出され、無視されました。"
+
+#: static/js/filtertable/FilterTable.js:920
+msgid "Please enter a valid date range"
+msgstr "有効な日付範囲を入力してください。"
+
+#: static/js/filtertable/FilterTable.js:922
+msgid "Start:"
+msgstr "開始:"
+
+#: static/js/filtertable/FilterTable.js:924
+msgid "End:"
+msgstr "終了:"
+
+#: static/js/filtertable/FilterTable.js:1156
+msgid "Invalid 'end date' specified."
+msgstr "無効な終了日が指定されました。"
+
+#: static/js/filtertable/FilterTable.js:1162
+msgid "Invalid 'start date' specified."
+msgstr "無効な開始日が指定されました。"
+
+#: static/js/filtertable/FilterTable.js:1168
+msgid "The specified 'end date' comes before the 'start date'."
+msgstr "開始日より前の無効な終了日が指定されました。"
+
+#: static/js/filtertable/FilterTable.js:1236
+msgid "Undefined filter value"
+msgstr "フィルタが定義されませんでした"
+
+#: static/js/filtertable/FilterTable.js:1300
+#, javascript-format
+msgid "'%s' is not a searchable field"
+msgstr "'%s' は、無効なサーチフィールドです"
+
+#: static/js/filtertable/FilterTable.js:1602
+msgid "Remove error message"
+msgstr "エラーメッセージを削除"
+
+#: static/js/filtertable/FilterTable.js:1635
+msgid "Right-click to add filter"
+msgstr "右クリックしてフィルタを追加"
+
+#: static/js/filtertable/FilterTable.js:1729
+msgid "No records found"
+msgstr "レコードは見つかりませんでした。 "
+
+#: static/js/filtertable/FilterTable.js:1731
+msgid "First"
+msgstr "先頭"
+
+#: static/js/filtertable/FilterTable.js:1732
+msgid "Previous"
+msgstr "前"
+
+#: static/js/filtertable/FilterTable.js:1733
+msgid "Next"
+msgstr "次"
+
+#: static/js/filtertable/FilterTable.js:1734
+msgid "Last"
+msgstr "最後"
+
+#: static/js/filtertable/FilterTable.js:2158
+#, javascript-format
+msgid "\"%s\" is an invalid control type"
+msgstr "\"%s\" は無効なコントロールタイプ"
+
+#: static/js/filtertable/FilterTable.js:2232
+#, javascript-format
+msgid "\"%s\" is an invalid filter type"
+msgstr "\"%s\" は無効なフィルタタイプ"
+
+#: static/js/filtertable/FilterTable.js:2310
+msgid "Details"
+msgstr "詳細"
+
+#: static/js/filtertable/FilterTable.js:2317
+msgid "Data is currently unavailable"
+msgstr "データは現在利用できません"
+
+#: static/js/filtertable/FilterTable.js:2343
+msgid "Invalid DOM type"
+msgstr "無効なDOMタイプ"
+
+#: static/js/filtertable/FilterTable.js:2346
+msgid "type not found"
+msgstr "タイプが見つかりません"
+
+#: static/js/filtertable/FilterTable.js:2364
+#: static/js/filtertable/FilterTable.js:2435
+msgid "hide search"
+msgstr "検索フィルタを隠す"
+
+#: static/js/filtertable/FilterTable.js:2430
+msgid "show search"
+msgstr "検索フィルタを表示する"
+
+#: static/js/filtertable/FilterTable.js:2585
+msgid "Invalid filter format detected"
+msgstr "正しくないフィルターフォーマットが検出されました"
+
+#: static/js/filtertable/FilterTable.js:3607
+msgid ""
+"Cannot create a FilterTable without either an ajaxSource or data attribute "
+"defined"
+msgstr ""
+"ajaxSourceかデータアトリビュートの指定なしでは、FilterTableを作成できません"
+
+#: static/js/filtertable/FilterTable.js:3610
+msgid "Must assign a container element."
+msgstr "コンテナエレメントのアサインが必要です"
+
+#: static/js/filtertable/fTableSearchConfig.js:115
+#: static/js/filtertable/fTableSearchConfig.js:452
+#: static/js/filtertable/fTableSearchConfig.js:506
+#: static/js/filtertable/fTableSearchConfig.js:560
+#: static/js/filtertable/fTableSearchConfig.js:640
+#: static/js/filtertable/fTableSearchConfig.js:747
+msgid "Device"
+msgstr "デバイス"
+
+#: static/js/filtertable/fTableSearchConfig.js:126
+#: static/js/filtertable/fTableSearchConfig.js:166
+#: static/js/filtertable/fTableSearchConfig.js:210
+#: static/js/filtertable/fTableSearchConfig.js:323
+#: static/js/filtertable/fTableSearchConfig.js:383
+#: static/js/filtertable/fTableSearchConfig.js:478
+#: static/js/filtertable/fTableSearchConfig.js:705
+#: static/js/scan_job_detail/tracer_behavior_detail.js:20
+#: static/js/threat_profile/alert_profile_helpers.js:132
+#: static/js/threat_profile/alert_profile_helpers.js:178
+#: static/js/threat_profile/alert_profile_helpers.js:223
+#: static/js/threat_profile/alert_profile_helpers.js:683
+#: static/js/threat_profile/alert_profile_helpers.js:771
+#: static/js/threat_profile/alert_profile_helpers.js:1027
+msgid "Filename"
+msgstr "ファイル名"
+
+#: static/js/filtertable/fTableSearchConfig.js:147
+msgid "Host or User"
+msgstr "ホスト:ユーザ名"
+
+#: static/js/filtertable/fTableSearchConfig.js:192
+#: static/js/filtertable/fTableSearchConfig.js:357
+#: static/js/filtertable/fTableSearchConfig.js:532
+#: static/js/threat_profile/alert_profile_helpers.js:36
+#: static/js/threat_profile/alert_profile_helpers.js:733
+#: static/js/threat_profile/alert_profile_helpers.js:983
+msgid "Malware"
+msgstr "マルウエア"
+
+#: static/js/filtertable/fTableSearchConfig.js:218
+#: static/js/filtertable/fTableSearchConfig.js:391
+#: static/js/threat_profile/alert_profile_helpers.js:786
+#: static/js/threat_profile/alert_profile_helpers.js:1036
+msgid "File Type"
+msgstr "ファイルタイプ"
+
+#: static/js/filtertable/fTableSearchConfig.js:253
+#: static/js/filtertable/fTableSearchConfig.js:297
+#: static/js/threat_profile/alert_profile_helpers.js:862
+#: static/js/threat_profile/alert_profile_helpers.js:933
+msgid "Destination (IP)"
+msgstr "宛先(IP)"
+
+#: static/js/filtertable/fTableSearchConfig.js:315
+#: static/js/filtertable/fTableSearchConfig.js:349
+#: static/js/filtertable/fTableSearchConfig.js:375
+#: static/js/filtertable/fTableSearchConfig.js:468
+#: static/js/filtertable/fTableSearchConfig.js:522
+#: static/js/filtertable/fTableSearchConfig.js:772
+msgid "Domain"
+msgstr "ドメイン"
+
+#: static/js/filtertable/fTableSearchConfig.js:496
+#: static/js/filtertable/fTableSearchConfig.js:550
+#: static/js/filtertable/fTableSearchConfig.js:578
+#: static/js/filtertable/fTableSearchConfig.js:619
+#: static/js/filtertable/fTableSearchConfig.js:677
+#: static/js/filtertable/fTableSearchConfig.js:726
+#: static/js/filtertable/fTableSearchConfig.js:808
+#: static/js/ondemand/column.js:24
+msgid "Submitted By"
+msgstr "サブミット方法"
+
+#: static/js/filtertable/fTableSearchConfig.js:586
+#: static/js/filtertable/fTableSearchConfig.js:628
+#: static/js/filtertable/fTableSearchConfig.js:667
+#: static/js/filtertable/fTableSearchConfig.js:735
+#: static/js/ondemand/column.js:19
+msgid "Submitted Filename"
+msgstr "サブミットされたファイル名"
+
+#: static/js/filtertable/fTableSearchConfig.js:685
+#: static/js/filtertable/fTableSearchConfig.js:696
+#: static/js/filtertable/fTableSearchConfig.js:763
+msgid "Infected OS"
+msgstr "検査したOS"
+
+#: static/js/filtertable/filtertable_helpers.js:5
+msgid "Critical"
+msgstr "クリティカル"
+
+#: static/js/filtertable/filtertable_helpers.js:9
+#: static/js/forticlient/column.js:32 static/js/forticlient/column.js:114
+msgid "Malicious"
+msgstr "既知のマルウェア"
+
+#: static/js/filtertable/filtertable_helpers.js:13
+msgid "High Risk"
+msgstr "ハイリスク"
+
+#: static/js/filtertable/filtertable_helpers.js:17
+msgid "Medium Risk"
+msgstr "ミディアムリスク"
+
+#: static/js/filtertable/filtertable_helpers.js:21
+#: static/js/filtertable/filtertable_helpers.js:760
+#: static/js/filtertable/filtertable_helpers.js:845
+#: static/js/filtertable/filtertable_helpers.js:889
+#: static/js/filtertable/filtertable_helpers.js:990
+#: static/js/filtertable/filtertable_helpers.js:1032
+#: static/js/filtertable/filtertable_helpers.js:1091
+#: static/js/filtertable/filtertable_helpers.js:1173
+msgid "Low Risk"
+msgstr "ローリスク"
+
+#: static/js/filtertable/filtertable_helpers.js:25
+#: static/js/forticlient/column.js:52 static/js/forticlient/column.js:134
+msgid "Clean"
+msgstr "クリーン"
+
+#: static/js/filtertable/filtertable_helpers.js:29
+msgid "N/A"
+msgstr "N/A"
+
+#: static/js/filtertable/filtertable_helpers.js:33
+#: static/js/filtertable/filtertable_helpers.js:182
+msgid "Unknown"
+msgstr "不明"
+
+#: static/js/filtertable/filtertable_helpers.js:37
+msgid "Zero-day"
+msgstr "ゼロデイ"
+
+#: static/js/filtertable/filtertable_helpers.js:173
+msgid "All"
+msgstr "すべて"
+
+#: static/js/filtertable/filtertable_helpers.js:1158
+msgid "Get in cloud data failed"
+msgstr "クラウドデータを取得できませんでした"
+
+#: static/js/forticlient/column.js:6
+msgid "FCT Serial"
+msgstr "FortiClientシリアル番号"
+
+#: static/js/forticlient/column.js:12
+msgid "Hostname"
+msgstr "ホスト名"
+
+#: static/js/forticlient/column.js:21
+msgid "User"
+msgstr "ユーザ"
+
+#: static/js/forticlient/column.js:27
+msgid "IP"
+msgstr "IP"
+
+#: static/js/forticlient/column.js:37 static/js/forticlient/column.js:119
+msgid "High"
+msgstr "ハイリスク"
+
+#: static/js/forticlient/column.js:42
+msgid "Mid"
+msgstr "半ば"
+
+#: static/js/forticlient/column.js:47 static/js/forticlient/column.js:129
+msgid "Low"
+msgstr "ローリスク"
+
+#: static/js/forticlient/column.js:57 static/js/forticlient/column.js:139
+msgid "Others"
+msgstr " その他..."
+
+#: static/js/forticlient/column.js:62 static/js/forticlient/column.js:144
+msgid "Mal Pkg"
+msgstr "マルウェアパッケージ"
+
+#: static/js/forticlient/column.js:67 static/js/forticlient/column.js:154
+msgid "Auth"
+msgstr "認証"
+
+#: static/js/forticlient/column.js:77 static/js/forticlient/column.js:166
+msgid "Limit"
+msgstr "制限"
+
+#: static/js/forticlient/column.js:82 static/js/forticlient/column.js:171
+#: static/js/ondemand/column.js:40
+#: static/js/scan_job_detail/tracer_behavior_detail.js:31
+#: static/js/scan_job_detail/tracer_behavior_detail.js:32
+#: static/js/system/system_config/column.js:95
+msgid "Status"
+msgstr "ステータス"
+
+#: static/js/forticlient/column.js:103
+msgid "Device Name"
+msgstr "デバイス名"
+
+#: static/js/forticlient/column.js:109
+msgid "Serial"
+msgstr "シリアル番号"
+
+#: static/js/forticlient/column.js:124
+msgid "Medium"
+msgstr "ミディアムリスク"
+
+#: static/js/forticlient/column.js:149
+msgid "URL Pkg"
+msgstr "URLパッケージ"
+
+#: static/js/forticlient/controller.js:50 static/js/ondemand/controller.js:50
+#: static/js/operation_center/controller.js:50
+#: static/js/system/system_config/controller.js:51
+#: static/js/table/search/controllers/grid.js:7
+#: static/js/vm_status/controller.js:53
+msgid "items per page"
+msgstr "ページごとのアイテム"
+
+#: static/js/forticlient/controller.js:51 static/js/ondemand/controller.js:51
+#: static/js/operation_center/controller.js:51
+#: static/js/system/system_config/controller.js:52
+#: static/js/table/search/controllers/grid.js:8
+#: static/js/vm_status/controller.js:54
+msgid "No items to display"
+msgstr "表示するデータがありません"
+
+#: static/js/forticlient/controller.js:52 static/js/ondemand/controller.js:52
+#: static/js/operation_center/controller.js:52
+#: static/js/system/system_config/controller.js:53
+#: static/js/table/search/controllers/grid.js:9
+#: static/js/vm_status/controller.js:55 static/lib/babel/babel.min.js:15
+msgid "of"
+msgstr "の"
+
+#: static/js/forticlient/controller.js:52 static/js/ondemand/controller.js:52
+#: static/js/operation_center/controller.js:52
+#: static/js/system/system_config/controller.js:53
+#: static/js/table/search/controllers/grid.js:9
+#: static/js/vm_status/controller.js:55
+msgid "items"
+msgstr "アイテム"
+
+#: static/js/forticlient/controller.js:56 static/js/ondemand/controller.js:56
+#: static/js/operation_center/controller.js:56
+#: static/js/scan_input/mta_qt/controller.js:57
+#: static/js/system/system_config/controller.js:57
+#: static/js/table/search/controllers/grid.js:129
+#: static/js/vm_status/controller.js:59
+msgid "No records found."
+msgstr "レコードが見つかりませんでした。"
+
+#: static/js/forticlient/controller.js:93
+msgid "Permission Update Error."
+msgstr "アクセス許可の更新エラー。"
+
+#: static/js/forticlient/controller.js:184
+msgid "Are you sure you want to delete the selected FortiClient(s)?"
+msgstr "このデバイスを削除してもよろしいですか？"
+
+#: static/js/forticlient/controller.js:184
+msgid ""
+"(Note: Finished scans of the deleted FortiClient will be kept in the system. "
+"All of the following items and their related references will be deleted.)"
+msgstr ""
+"（注：削除されたFortiClientのスキャンはシステムに保存されます。以下の項目およ"
+"び関連するすべての参照は削除されます。）"
+
+#: static/js/forticlient/controller.js:192
+msgid "Are you sure you want to delete the selected "
+msgstr "このデバイスを削除してもよろしいですか"
+
+#: static/js/forticlient/controller.js:192
+msgid ""
+"(Note: Finished scans of the deleted device will be kept in the system. All "
+"of the following items and their related references will be deleted.)"
+msgstr ""
+"（注：削除されたデバイスのスキャンはシステムに保存されます。以下の項目および"
+"関連するすべてのリファレンスは削除されます。）"
+
+#: static/js/forticlient/controller.js:199
+#: static/js/forticlient/controller.js:213
+msgid "Device:"
+msgstr "デバイス"
+
+#: static/js/forticlient/controller.js:214
+msgid "(includes all Domains/Vdoms on device)"
+msgstr "（デバイス上のすべてのDomains / Vdomsを含む）"
+
+#: static/js/forticlient/controller.js:218
+msgid " on "
+msgstr " に "
+
+#: static/js/forticlient/controller.js:220
+msgid "), Alias:"
+msgstr "）、エイリアス："
+
+#: static/js/forticlient/controller.js:278 static/js/ondemand/controller.js:125
+#: static/js/operation_center/controller.js:241
+#: static/js/scan_input/mta_qt/controller.js:185
+#: static/js/system/system_config/controller.js:211
+#: static/js/table/search/controllers/grid.js:158
+#: static/js/vm_status/controller.js:179
+msgid "Data Error Found on Page "
+msgstr "ページにデータエラーが見つかりました "
+
+#: static/js/ha_cluster/health_check_edit.js:28
+msgid "Invalid Remote Server"
+msgstr ""
+
+#: static/js/ha_cluster/health_check_edit.js:31
+msgid ""
+"Ping remote server failed, do you still want to config this remote server?"
+msgstr ""
+
+#: static/js/ha_cluster/health_check_edit.js:33
+msgid ""
+"TCP Echo on remote server failed, do you still want to config this remote "
+"server?"
+msgstr ""
+
+#: static/js/ha_cluster/health_check_edit.js:35
+msgid ""
+"Ping and TCP Echo on remote server failed, do you still want to config this "
+"remote server?"
+msgstr ""
+
+#: static/js/ha_cluster/health_check_edit.js:48
+msgid "Warning"
+msgstr ""
+
+#: static/js/ha_cluster/management-action.js:113
+#, fuzzy
+#| msgid "Are you sure you want to upgrade your firmware with file "
+msgid "Are you sure you want to upgrade secondaries firmware with file "
+msgstr "ファームウェアをファイルでアップグレードしてよろしいですか "
+
+#: static/js/ha_cluster/management-action.js:137
+#, fuzzy
+#| msgid "Are you sure you want to upgrade your firmware with file "
+msgid "Are you sure you want to upgrade secondaries fortiguard with file "
+msgstr "ファームウェアをファイルでアップグレードしてよろしいですか "
+
+#: static/js/ha_cluster/management.js:115
+#, fuzzy
+#| msgid "Are you sure you want to stop the generating?"
+msgid "Are you sure you want to purge pending jobs for "
+msgstr "作成を中止しますか？"
+
+#: static/js/job_detail/app.js:93
+msgid "Download Report"
+msgstr "レポートをダウンロード"
+
+#: static/js/job_detail/app.js:135
+#, fuzzy
+#| msgid "Invalid IP: "
+msgid "Invalid email"
+msgstr "無効なIPアドレス"
+
+#: static/js/job_detail/app.js:141
+msgid "Comments can not be empty"
+msgstr "新しいエントリを空にすることはできません"
+
+#: static/js/job_detail/app.js:147 static/js/scan_job_detail/helpers.js:693
+msgid ""
+"The setting of Upload malicious and suspicious file information to Sandbox "
+"Community Cloud is disabled. Do you want to continue?"
+msgstr ""
+"悪意のあるファイルや疑わしいファイル情報をSandbox Community Cloudにアップロー"
+"ドする設定が無効になっています。続けますか？"
+
+#: static/js/job_detail/app.js:154
+msgid ""
+"The maximum comment length is 256 bytes, are you sure you want keep the "
+"first 256 bytes of your comment?"
+msgstr "最大文字数は256byteです。はじめの256byte分を保持しますか？"
+
+#: static/js/job_detail/tree.js:1
+msgid "MD5: "
+msgstr "MD5:"
+
+#: static/js/job_detail/tree.js:1
+msgid "URI: "
+msgstr "URI:"
+
+#: static/js/job_detail/tree.js:1
+msgid "Process: "
+msgstr "プロセス："
+
+#: static/js/job_detail/tree.js:1
+msgid "CMD Line: "
+msgstr "コマンドライン："
+
+#: static/js/job_detail/tree.js:1
+msgid "MD5:"
+msgstr "MD5:"
+
+#: static/js/job_detail/tree.js:1
+msgid "URI:"
+msgstr "URI:"
+
+#: static/js/job_detail/tree.js:1
+msgid "Process:"
+msgstr "プロセス："
+
+#: static/js/job_detail/tree.js:1
+msgid "CMD Line:"
+msgstr "コマンドライン："
+
+#: static/js/job_detail/tree_view_details.js:5
+#: static/js/job_detail/tree_view_details.js:176
+#: static/js/scan_job_detail/tracer_behavior_detail.js:18
+msgid "Size (Byte)"
+msgstr "サイズ（バイト）"
+
+#: static/js/job_detail/tree_view_details.js:6
+#: static/js/job_detail/tree_view_details.js:114
+#: static/js/scan_job_detail/tracer_behavior_detail.js:8
+msgid "ID"
+msgstr "ID"
+
+#: static/js/job_detail/tree_view_details.js:7
+#: static/js/job_detail/tree_view_details.js:175
+#: static/js/scan_job_detail/tracer_behavior_detail.js:11
+msgid "MD5"
+msgstr "MD5"
+
+#: static/js/job_detail/tree_view_details.js:8
+#: static/js/scan_job_detail/tracer_behavior_detail.js:12
+msgid "CMD"
+msgstr "CMD"
+
+#: static/js/job_detail/tree_view_details.js:10
+#: static/js/job_detail/tree_view_details.js:174
+#: static/js/job_detail/tree_view_details.js:187
+#: static/js/scan_job_detail/tracer_behavior_detail.js:10
+msgid "Time"
+msgstr "時間"
+
+#: static/js/job_detail/tree_view_details.js:11
+msgid "Path"
+msgstr "パス"
+
+#: static/js/job_detail/tree_view_details.js:113
+#: static/js/job_detail/tree_view_details.js:121
+#: static/js/scan_job_detail/tracer_behavior_detail.js:27
+msgid "Detail"
+msgstr "詳細"
+
+#: static/js/job_detail/tree_view_details.js:122
+msgid "Indicator ID"
+msgstr "インジケータID"
+
+#: static/js/job_detail/tree_view_details.js:164
+#: static/js/scan_job_detail/tracer_behavior_detail.js:13
+msgid "URI"
+msgstr "URL"
+
+#: static/js/job_detail/tree_view_details.js:177
+msgid "Attribute"
+msgstr "属性"
+
+#: static/js/job_detail/tree_view_details.js:178
+#: static/js/scan_job_detail/tracer_behavior_detail.js:19
+msgid "Virus Name"
+msgstr "ウイルス名"
+
+#: static/js/job_detail/tree_view_details.js:186
+msgid "Data"
+msgstr "Data"
+
+#: static/js/job_detail/tree_view_details.js:188
+msgid "Registry Key"
+msgstr "レジストリキー"
+
+#: static/js/logs/log_helpers.js:335
+msgid "There are no logs to download"
+msgstr "ダウンロード可能なログはありません"
+
+#: static/js/logs/log_helpers.js:350
+msgid "Creating file ..."
+msgstr "ファイルの作成 …"
+
+#: static/js/logs/log_helpers.js:365
+msgid "Error happened when creating log file."
+msgstr "ジョブファイル作成時にエラーが発生しました"
+
+#: static/js/logs/log_helpers.js:374
+msgid "Download Log"
+msgstr "ログをダウンロード"
+
+#: static/js/multiple-select/multiple-select.js:739
+msgid "Select all"
+msgstr "すべて選択"
+
+#: static/js/navbar_controls/main.js:24
+msgid "not available or not up to date."
+msgstr "利用できないか、最新ではありません。"
+
+#: static/js/navbar_controls/main.js:25
+msgid "Please configure and install "
+msgstr "構成してインストールしてください"
+
+#: static/js/navbar_controls/main.js:25
+msgid " or wait for "
+msgstr " または待つ "
+
+#: static/js/navbar_controls/main.js:26
+msgid " to be updated to access to all FortiSanbox functionality."
+msgstr " すべてのFortiSanbox機能にアクセスするために更新されます。"
+
+#: static/js/navbar_controls/main.js:29
+msgid "FortiSandbox will stop supporting Windows XP OS in future releases. "
+msgstr ""
+
+#: static/js/navbar_controls/main.js:30
+msgid ""
+"It's recommended to set its clone number to 0 and migrate to use Windows 7 "
+"OS or later"
+msgstr ""
+
+#: static/js/navbar_controls/main.js:38
+msgid "WARNING!!"
+msgstr "警告！！"
+
+#: static/js/navbar_controls/main.js:41
+msgid "Accept"
+msgstr "受け入れる"
+
+#: static/js/navbar_controls/searchbox.js:32
+msgid "What are you looking for?"
+msgstr ""
+
+#: static/js/ondemand/column.js:14
+msgid "Submission Time"
+msgstr "サブミット時間"
+
+#: static/js/ondemand/column.js:51
+msgid "Comments"
+msgstr "コメント"
+
+#: static/js/ondemand/ondemand_file.js:16
+msgid "Submit New "
+msgstr "新規送信"
+
+#: static/js/ondemand/ondemand_file.js:16 static/js/vm_status/column.js:9
+msgid "File"
+msgstr "ファイル"
+
+#: static/js/operation_center/column.js:27
+msgid "Severity"
+msgstr "重大度"
+
+#: static/js/operation_center/column.js:38
+msgid "Incident Time"
+msgstr "インシデント発生時刻"
+
+#: static/js/operation_center/column.js:44
+msgid "Threat Name"
+msgstr "脅威名"
+
+#: static/js/operation_center/column.js:50
+msgid "File Name"
+msgstr "ファイル名"
+
+#: static/js/operation_center/column.js:55
+#: static/js/scan_input/mta_qt/column.js:45
+msgid "Action"
+msgstr "アクション"
+
+#: static/js/operation_center/column.js:62
+#: static/js/operation_center/controller.js:166
+msgid "Action Taken"
+msgstr "取られた行動"
+
+#: static/js/operation_center/column.js:63
+#: static/js/operation_center/controller.js:161
+msgid "Ignore"
+msgstr "無視"
+
+#: static/js/operation_center/column.js:64
+#: static/js/operation_center/controller.js:171
+msgid "Action Required"
+msgstr "必要なアクション"
+
+#: static/js/operation_center/controller.js:93
+#: static/js/table/search/databound.js:64
+msgid "Rescan Configuration"
+msgstr "リスキャン設定"
+
+#: static/js/operation_center/controller.js:200
+msgid "Action Setting"
+msgstr "アクション設定"
+
+#: static/js/report_center/CustomActions.js:40
+#: static/js/report_center/index.js:172 static/js/report_center/index.js:216
+#: static/js/scan_input/ns-scan-details.js:168
+msgid "Confirm"
+msgstr "確認"
+
+#: static/js/report_center/CustomActions.js:41
+#: static/js/scan_input/ns-scan-details.js:169
+msgid "Are you sure you want to delete the selected scan data?"
+msgstr "選択したスキャンデータを削除してよろしいですか？"
+
+#: static/js/report_center/CustomActions.js:42
+#: static/js/scan_input/ns-scan-details.js:170
+msgid "You will not be able to recover these data!"
+msgstr "これらのデータを復元することはできません!"
+
+#: static/js/report_center/index.js:79 static/js/report_center/index.js:81
+msgid "Cannot load data now, please try again later."
+msgstr "データを読み込めません。しばらくしてからもう一度お試しください。"
+
+#: static/js/report_center/index.js:163
+msgid "Failed to download report. "
+msgstr "レポートのダウンロードに失敗しました。"
+
+#: static/js/report_center/index.js:165
+msgid "Failed to dwonload report. "
+msgstr "レポートのダウンロードに失敗しました。"
+
+#: static/js/report_center/index.js:173
+msgid "Are you sure you want to stop the generating?"
+msgstr "作成を中止しますか？"
+
+#: static/js/report_center/index.js:194
+msgid "Stopped!"
+msgstr "中止"
+
+#: static/js/report_center/index.js:204 static/js/report_center/index.js:206
+msgid "Failed to stop generating. "
+msgstr "生成を停止できませんでした。"
+
+#: static/js/report_center/index.js:217
+msgid "Are you sure you want to delete the selected reports?"
+msgstr ""
+"このレポート\n"
+"を削除してもよろしいですか"
+
+#: static/js/report_center/index.js:218
+msgid "You will not be able to recover these files!"
+msgstr "ファイルからリカバリーすることが出来ません。"
+
+#: static/js/report_center/index.js:250 static/js/report_center/index.js:252
+msgid "Failed to delete reports. "
+msgstr "レポートを削除できませんでした。"
+
+#: static/js/scan_input/bcc_config.js:84
+msgid "BCC settings were successfully updated."
+msgstr "BCC設定が正常に更新されました。"
+
+#: static/js/scan_input/bcc_validation.js:25
+#: static/js/scan_input/icap_validation.js:39
+#: static/js/scan_input/mta_validation.js:71
+msgid "Redirect url must has protocol. (https://)"
+msgstr "リダイレクトURLにはプロトコルが必要です。(https://)"
+
+#: static/js/scan_input/bcc_validation.js:42
+#: static/js/scan_input/icap_validation.js:56
+#: static/js/scan_input/mta_validation.js:150
+msgid " must be an integer between 0 and 65535."
+msgstr "0から65535までの整数でなければなりません。"
+
+#: static/js/scan_input/bcc_validation.js:77
+#: static/js/scan_input/mta_validation.js:205
+msgid "SMTP port and SMTPS port cannot be the same."
+msgstr "SMTPポートとSMTPSポートを同じにすることはできません。"
+
+#: static/js/scan_input/connection_test.js:31
+msgid "Test Connection Result"
+msgstr "接続テスト結果"
+
+#: static/js/scan_input/fcont_main.js:133
+msgid "File | URL"
+msgstr "ファイル| URL"
+
+#: static/js/scan_input/fcont_main.js:137
+msgid "View Setting"
+msgstr "ビュー設定"
+
+#: static/js/scan_input/global_network_options.js:101
+#: static/js/scan_input/package_options.js:83
+msgid "Server name"
+msgstr "サーバーの名前"
+
+#: static/js/scan_input/global_network_options.js:101
+#: static/js/scan_input/global_network_options.js:104
+#: static/js/scan_input/package_options.js:83
+#: static/js/scan_input/package_options.js:86
+msgid "Authentication code"
+msgstr "認証コード"
+
+#: static/js/scan_input/global_network_options.js:104
+#: static/js/scan_input/package_options.js:86
+msgid "Collector server address"
+msgstr "コレクタサーバーアドレス"
+
+#: static/js/scan_input/global_network_options.js:104
+msgid "Slave Name"
+msgstr "スレーブ名"
+
+#: static/js/scan_input/global_network_options.js:109
+msgid "Please enable at least one function under the Contributor mode"
+msgstr "投稿者モードでは少なくとも1つの機能を有効にしてください"
+
+#: static/js/scan_input/global_network_options.js:141
+#: static/js/scan_input/package_options.js:112
+msgid "Please enter your "
+msgstr "あなたの名前を入力してください "
+
+#: static/js/scan_input/icap_config.js:111
+msgid "Icap settings were successfully updated."
+msgstr "Icap設定が正常に更新されました。"
+
+#: static/js/scan_input/icap_validation.js:18
+msgid "Either Receive URL or Receive file need to be selected for icap method."
+msgstr "ICAPメソッドに関する受信URL/ファイル共に選択される必要がります。"
+
+#: static/js/scan_input/icap_validation.js:91
+msgid "Port and SSL Port cannot be the same."
+msgstr "ポートとSSLポートは同じ番号にすることはできません。"
+
+#: static/js/scan_input/malpkg_config.js:17
+msgid "Malware/URL package configuration was successfully updated"
+msgstr "マルウェア/ URLパッケージの設定が正常に更新されました"
+
+#: static/js/scan_input/malpkg_config.js:108
+msgid "Hide Code"
+msgstr "コードを隠す"
+
+#: static/js/scan_input/malpkg_config.js:112
+msgid "Show Code"
+msgstr "コードを表示"
+
+#: static/js/scan_input/malpkg_config.js:200
+msgid "Please input the valid number of days. The maximum days are 365."
+msgstr "有効な日数を入力してください。最大日数は365です。"
+
+#: static/js/scan_input/mta_config.js:126
+msgid "MTA settings were successfully updated."
+msgstr "MTA設定は正常に更新されました。"
+
+#: static/js/scan_input/mta_qt/column.js:11
+msgid "SID"
+msgstr "SID"
+
+#: static/js/scan_input/mta_qt/column.js:17
+msgid "Email Subject"
+msgstr "メールの件名"
+
+#: static/js/scan_input/mta_qt/column.js:23
+msgid "Sender"
+msgstr "送信者"
+
+#: static/js/scan_input/mta_qt/column.js:29
+msgid "Receiver"
+msgstr "受信機"
+
+#: static/js/scan_input/mta_qt/column.js:40
+msgid "Submit Time"
+msgstr "時間を提出"
+
+#: static/js/scan_input/mta_qt/controller.js:92
+#: static/js/vm_status/controller.js:118
+msgid "Failed, please try again later"
+msgstr "失敗しました。後でもう一度やり直してください。"
+
+#: static/js/scan_input/mta_qt/controller.js:133
+msgid "Release"
+msgstr "リリース"
+
+#: static/js/scan_input/mta_qt/controller.js:136
+msgid "Delete"
+msgstr "削除する"
+
+#: static/js/scan_input/mta_qt/controller.js:139
+msgid " selected emails?"
+msgstr "選択したメール？"
+
+#: static/js/scan_input/mta_qt/controller.js:140
+msgid "Take Action"
+msgstr "行動を起こす"
+
+#: static/js/scan_input/mta_qt/controller.js:153
+msgid "Emails are "
+msgstr "メールは"
+
+#: static/js/scan_input/mta_validation.js:36
+msgid "Please enter the correct email address"
+msgstr "正しいメールアドレスを入力してください"
+
+#: static/js/scan_input/mta_validation.js:53
+msgid "Email content template cannot be empty"
+msgstr "メールコンテンツテンプレートを空にすることはできません"
+
+#: static/js/scan_input/mta_validation.js:83
+#: static/js/scan_input/mta_validation.js:102
+msgid "IP/Domain/Hostname"
+msgstr "IP /ドメイン/ホスト名"
+
+#: static/js/scan_input/mta_validation.js:88
+#: static/js/scan_input/mta_validation.js:109
+msgid " is not valid with value "
+msgstr " valueでは無効です "
+
+#: static/js/scan_input/mta_validation.js:126
+msgid "Number"
+msgstr "数"
+
+#: static/js/scan_input/mta_validation.js:131
+msgid " must be an integer between "
+msgstr " の整数でなければなりません"
+
+#: static/js/scan_input/mta_validation.js:131
+msgid " and "
+msgstr " そして "
+
+#: static/js/scan_input/mta_validation.js:131
+msgid "."
+msgstr "."
+
+#: static/js/scan_input/mta_validation.js:145
+#: static/js/system/system_config/column.js:66
+msgid "Port"
+msgstr "ポート"
+
+#: static/js/scan_input/mta_validation.js:164
+msgid "Subject Tag"
+msgstr "件名タグ"
+
+#: static/js/scan_input/mta_validation.js:170
+msgid " is over the limit of "
+msgstr "の限界を超えています"
+
+#: static/js/scan_input/mta_validation.js:170
+#: static/js/scan_profile/user_defined_exts.js:93
+msgid " characters."
+msgstr " 文字。"
+
+#: static/js/scan_input/ondemand_submit_file.js:218
+msgid ""
+"Note: By selecting MACOSX VM type, the file will be submitted to Fortinet "
+"Cloud to scan, and the scan might take a while. MACOSX VM can't be used with "
+"local VMs at the same time"
+msgstr ""
+"注意：MACOSX VMタイプを選択すると、ファイルをFortinet Cloudに送信してスキャン"
+"をするため、スキャンに時間がかかることがあります。"
+
+#: static/js/scan_input/ondemand_submit_file.js:225
+msgid "Note: Android VM can't be used with local VMs at the same time"
+msgstr "注：Android VMをローカルVMと同時に使用することはできません"
+
+#: static/js/scan_input/ondemand_submit_file.js:412
+msgid "URL cannot be empty."
+msgstr "URLを空にすることはできません。"
+
+#: static/js/scan_input/ondemand_submit_file.js:415
+msgid "URL not valid"
+msgstr "無効なURL"
+
+#: static/js/scan_input/ondemand_submit_file.js:421
+msgid "File cannot be empty."
+msgstr "ファイルを空にすることはできません。"
+
+#: static/js/scan_input/ondemand_submit_file.js:461
+msgid "You can only select at most 6 VM Types."
+msgstr "最大6つのVMタイプしか選択できません。"
+
+#: static/js/scan_input/package_options.js:86
+#, fuzzy
+#| msgid "Primary Address"
+msgid "Primary Name"
+msgstr "プライマリアドレス"
+
+#: static/js/scan_input/scan_input_common_patch.js:23
+msgid "Domain of the Share URL"
+msgstr "共有URLのドメイン"
+
+#: static/js/scan_input/scan_input_common_patch.js:24
+msgid "Path of the Share URL"
+msgstr "共有URLのパス"
+
+#: static/js/scan_input/scan_input_common_patch.js:25
+msgid "Name of the Storage Account"
+msgstr "ストレージアカウントの名前"
+
+#: static/js/scan_input/scan_input_common_patch.js:26
+msgid "Access Key of the Account"
+msgstr "アカウントのアクセスキー"
+
+#: static/js/scan_input/scan_input_common_patch.js:27
+msgid "Confirm Access key"
+msgstr "アクセスキーを確認"
+
+#: static/js/scan_input/scan_input_common_patch.js:29
+msgid ""
+"FSA only supports to scan Azure Files (which shared by SMB) on the Storage "
+"Account. Not support to scan Azure Blob and Azure Disk on the Storage "
+"Account."
+msgstr ""
+"FSAは、StorageAccount上のAzureファイル（SMBによって共有されている）のスキャン"
+"のみをサポートします。ストレージアカウントでAzure BlobとAzure Diskをスキャン"
+"することはできません"
+
+#: static/js/scan_input/scan_input_common_patch.js:36
+msgid "AWS S3 bucket name"
+msgstr "AWS S3バケット名"
+
+#: static/js/scan_input/scan_input_common_patch.js:37
+msgid "S3 bucket folder path"
+msgstr "S3バケットフォルダパス"
+
+#: static/js/scan_input/scan_input_common_patch.js:38
+msgid "AWS IAM Access key ID"
+msgstr "AWS IAMアクセスキーID"
+
+#: static/js/scan_input/scan_input_common_patch.js:39
+msgid "Secret Access key"
+msgstr "シークレットアクセスキー"
+
+#: static/js/scan_input/scan_input_common_patch.js:40
+msgid "Confirm secret access key"
+msgstr "シークレットアクセスキーを確認"
+
+#: static/js/scan_input/scan_input_common_patch.js:63
+msgid "Server Name/IP"
+msgstr "サーバー名/ IP"
+
+#: static/js/scan_input/scan_input_common_patch.js:64
+msgid "Share Path"
+msgstr "共有パス"
+
+#: static/js/scan_input/scan_input_common_patch.js:65
+msgid "Username"
+msgstr "ユーザー名"
+
+#: static/js/scan_input/scan_input_common_patch.js:66
+msgid "Password"
+msgstr "パスワード"
+
+#: static/js/scan_input/scan_input_common_patch.js:67
+msgid "Confirm Password"
+msgstr "パスワードを認証する"
+
+#: static/js/scan_job_detail/helpers.js:659
+msgid "Cloud submission not supported for URL."
+msgstr "クラウド送信はURLでサポートされていません。"
+
+#: static/js/scan_job_detail/tracer_behavior_detail.js:15
+msgid "Destination IP"
+msgstr "宛先(IP)"
+
+#: static/js/scan_job_detail/tracer_behavior_detail.js:16
+msgid "Destination Port"
+msgstr "宛先(ポート)"
+
+#: static/js/scan_job_detail/tracer_behavior_detail.js:17
+msgid "Target IP"
+msgstr "ターゲットIP"
+
+#: static/js/scan_job_detail/tracer_behavior_detail.js:22
+msgid "Protocol"
+msgstr "プロトコル"
+
+#: static/js/scan_job_detail/tracer_behavior_detail.js:23
+msgid "Request"
+msgstr "リクエスト"
+
+#: static/js/scan_job_detail/tracer_behavior_detail.js:25
+#: static/js/scan_job_detail/tracer_behavior_detail.js:30
+msgid "Method"
+msgstr "メソッド"
+
+#: static/js/scan_job_detail/tracer_behavior_detail.js:26
+msgid "Operation"
+msgstr "操作"
+
+#: static/js/scan_job_detail/tracer_behavior_detail.js:28
+msgid "Date"
+msgstr "日付"
+
+#: static/js/scan_job_detail/tracer_behavior_detail.js:29
+msgid "Reason"
+msgstr "理由"
+
+#: static/js/scan_policy/filter_list/item_card.js:62
+msgid "Are you sure to delete this item from "
+msgstr "からこのアイテムを削除してよろしいですか"
+
+#: static/js/scan_policy/filter_list/type_panel.js:97
+msgid "Are you sure to clear all expired items from "
+msgstr "から期限切れのアイテムをすべて消去してよろしいですか"
+
+#: static/js/scan_policy/general_options.js:320
+msgid "UDP is not supported."
+msgstr "UDPはサポートされていません。"
+
+#: static/js/scan_policy/ip.js:7
+msgid ""
+"Full IP must be IP and Netmask, like 192.168.200.55/255.255.255.0 or "
+"192.168.200.55/24 ."
+msgstr ""
+"IPは192.168.200.55 / 255.255.255.0または192.168.200.55 / 24のようにIPとネット"
+"マスクである必要があります。"
+
+#: static/js/scan_policy/ip.js:13 static/js/scan_policy/ip.js:17
+msgid "Invalid IP: "
+msgstr "無効なIPアドレス"
+
+#: static/js/scan_policy/ip.js:22
+msgid "IP Out of Range: "
+msgstr "範囲外のIPアドレス"
+
+#: static/js/scan_policy/overridden_verdicts.js:17
+msgid ""
+"Removal of this entry won't change results of finished scans, are you sure "
+"to DELETE these verdict(s)?"
+msgstr ""
+"このエントリを削除しても、スキャンの結果は変わりません。次の判定を削除しても"
+"よろしいですか？"
+
+#: static/js/scan_policy/que_pri.js:97 static/js/scan_policy/que_pri.js:105
+msgid "Are you sure you want to reset Job Queue Priority to default?"
+msgstr "すべてのジョブビューの設定をデフォルトにリセットしてもよろしいですか？"
+
+#: static/js/scan_profile/selection_panel.js:32 static/js/vmimages/main.js:462
+msgid "Windows XP OS is no longer supported"
+msgstr ""
+
+#: static/js/scan_profile/user_defined_exts.js:36
+msgid ""
+"Are you sure you want to delete this extension? \n"
+"VMs with this extension selected will get affected."
+msgstr ""
+"この拡張機能を削除してもよろしいですか？ \n"
+"この拡張機能が選択されたVMは影響を受けます。"
+
+#: static/js/scan_profile/user_defined_exts.js:91
+msgid "New Entry cannot be empty."
+msgstr "新しいエントリを空にすることはできません。"
+
+#: static/js/scan_profile/user_defined_exts.js:93
+msgid "The new extension you entered cannot be more than "
+msgstr "入力する拡張子は、次の文字数以上には出来ません： "
+
+#: static/js/scan_profile/user_defined_exts.js:95
+msgid ""
+"The new extension you entered contains special character, which is not "
+"allowed."
+msgstr ""
+"入力した新しい拡張子には特殊文字が含まれていますが、これは許可されていませ"
+"ん。"
+
+#: static/js/scan_profile/user_defined_exts.js:97
+msgid ""
+"The new extension you entered contains white space, which is not allowed."
+msgstr ""
+"入力した新しい拡張子には空白が含まれていますが、これは許可されていません。"
+
+#: static/js/scan_profile/user_defined_exts.js:99
+msgid "The new extension you entered already exist in static extensions."
+msgstr "入力した新しい拡張子には、すでに静的な拡張子が存在します。"
+
+#: static/js/scheduler/controllers/filter.js:30
+msgid "Events count exceed limit, please proceed with caution."
+msgstr "イベント数が上限を超えています、注意してください。"
+
+#: static/js/scheduler/controllers/filter.js:59
+msgid "Event Calendar Settings"
+msgstr "イベントカレンダーの設定"
+
+#: static/js/scheduler/settings/controller.js:60
+msgid "Are you sure you want to reset all event calendar settings to default?"
+msgstr ""
+"すべてのイベントカレンダー設定をデフォルトにリセットしてもよろしいですか？"
+
+#: static/js/system/config-network-intf.js:39
+msgid "Are you sure you want to delete the following interface(s):"
+msgstr "次のインターフェースを削除してもよろしいですか？"
+
+#: static/js/system/config-network-intf.js:50
+msgid "Failed to delete interface, please see event log for details"
+msgstr ""
+"インターフェイスを削除できませんでした。詳細についてはイベントログを参照して"
+"ください"
+
+#: static/js/system/config-network-intf.js:58
+msgid ""
+"Failed to delete interface, please unset administration port before delete "
+"the interface"
+msgstr ""
+"インターフェースの削除に失敗しました。インターフェースを削除する前に管理ポー"
+"トの設定を解除してください"
+
+#: static/js/system/config_mail.js:82
+#, fuzzy
+#| msgid "Rescan Configuration"
+msgid "Alert Notification Configuration"
+msgstr "リスキャン設定"
+
+#: static/js/system/config_mail.js:86
+msgid "Send alert email when:"
+msgstr ""
+
+#: static/js/system/config_mail.js:94
+#, fuzzy
+#| msgid "Rescan Configuration"
+msgid "Scheduled Report Configuration"
+msgstr "リスキャン設定"
+
+#: static/js/system/config_mail.js:99
+#, fuzzy
+#| msgid "Rescan Configuration"
+msgid "Schedule Configuration"
+msgstr "リスキャン設定"
+
+#: static/js/system/system_config/column.js:1
+msgid "Download sub certificate"
+msgstr "サブ証明書をダウンロードする"
+
+#: static/js/system/system_config/column.js:2
+msgid "Download cacert"
+msgstr "ダウンロードcacert"
+
+#: static/js/system/system_config/column.js:3
+msgid "Download certificate"
+msgstr "証明書をダウンロードする"
+
+#: static/js/system/system_config/column.js:15
+msgid "Address"
+msgstr "アドレス"
+
+#: static/js/system/system_config/column.js:21
+msgid "Common Name"
+msgstr "コモンネーム"
+
+#: static/js/system/system_config/column.js:27
+msgid "Distinguished Name"
+msgstr "識別名"
+
+#: static/js/system/system_config/column.js:33
+msgid "Bind Type"
+msgstr "バインドタイプ"
+
+#: static/js/system/system_config/column.js:39
+msgid "Connection Type"
+msgstr "接続タイプ"
+
+#: static/js/system/system_config/column.js:54
+msgid "Primary Address"
+msgstr "プライマリアドレス"
+
+#: static/js/system/system_config/column.js:60
+msgid "Secondary Address"
+msgstr "二次アドレス"
+
+#: static/js/system/system_config/column.js:72
+msgid "Auth Type"
+msgstr "認証タイプ"
+
+#: static/js/system/system_config/column.js:90
+msgid "Subject"
+msgstr "サブジェクト"
+
+#: static/js/system/system_config/column.js:100
+msgid "Service"
+msgstr "サービス"
+
+#: static/js/system/system_config/column.js:105
+msgid "Certificate"
+msgstr "証明書"
+
+#: static/js/system/system_config/column.js:112
+msgid "Sub Certificate"
+msgstr "サブ証明書"
+
+#: static/js/system/system_config/column.js:119
+msgid "Cacert"
+msgstr ""
+
+#: static/js/system/system_config/controller.js:182
+msgid "Are you sure you want to delete the following "
+msgstr "次の管理者を削除してもよろしいですか？"
+
+#: static/js/table/customize/controller.js:73
+msgid "Are you sure you want to reset all job view settings to default?"
+msgstr "すべてのジョブビューの設定をデフォルトにリセットしてもよろしいですか？"
+
+#: static/js/table/customize/controller.js:133
+msgid "Page Size must be integer between 1 to 200."
+msgstr "ページサイズは、1〜200の整数でなければなりません。"
+
+#: static/js/table/filters.js:17
+msgid "Export to report"
+msgstr "レポートをExport"
+
+#: static/js/table/filters.js:25
+msgid "Customize"
+msgstr "カスタマイズ"
+
+#: static/js/table/filters.js:41
+msgid "Mass Operation:"
+msgstr "大量操作："
+
+#: static/js/table/filters.js:41
+msgid "Release Selected Emails"
+msgstr "選択したメールをリリース"
+
+#: static/js/table/filters.js:47
+msgid "Delete Selected Emails"
+msgstr "選択したメールを削除"
+
+#: static/js/table/filters.js:127
+msgid "Create Report and Download"
+msgstr "レポートの作成とダウンロード"
+
+#: static/js/table/filters.js:153
+msgid "Job View Settings"
+msgstr "ジョブビュー設定"
+
+#: static/js/threat_profile/alert_profile_helpers.js:80
+msgid "Suspicious Type"
+msgstr "疑わしいファイルの種類"
+
+#: static/js/threat_profile/alert_profile_helpers.js:652
+#: static/js/threat_profile/alert_profile_helpers.js:707
+#: static/js/threat_profile/alert_profile_helpers.js:751
+#: static/js/threat_profile/alert_profile_helpers.js:813
+#: static/js/threat_profile/alert_profile_helpers.js:880
+#: static/js/threat_profile/alert_profile_helpers.js:951
+#: static/js/threat_profile/alert_profile_helpers.js:1001
+#: static/js/threat_profile/alert_profile_helpers.js:1063
+#: static/js/threat_profile/alert_profile_helpers.js:1137
+msgid "# of Detection Times"
+msgstr "検知数"
+
+#: static/js/threat_profile/alert_profile_helpers.js:853
+#: static/js/threat_profile/alert_profile_helpers.js:924
+#: static/js/threat_profile/alert_profile_helpers.js:1110
+msgid "User (Port)"
+msgstr "ユーザ (ポート)"
+
+#: static/js/threat_profile/alert_profile_helpers.js:871
+#: static/js/threat_profile/alert_profile_helpers.js:942
+msgid "Destination (Port)"
+msgstr "宛先(ポート)"
+
+#: static/js/threat_profile/alert_profile_helpers.js:992
+#: static/js/threat_profile/alert_profile_helpers.js:1054
+msgid "Threat Source"
+msgstr "脅威ソース"
+
+#: static/js/threat_profile/alert_profile_helpers.js:1163
+#: static/js/threat_profile/alert_profile_helpers.js:1184
+msgid "Malicious Files"
+msgstr "既知のマルウェアファイル"
+
+#: static/js/threat_profile/alert_profile_helpers.js:1169
+#: static/js/threat_profile/alert_profile_helpers.js:1190
+msgid "Suspicious Files"
+msgstr "疑わしいファイル"
+
+#: static/js/threat_profile/alert_profile_helpers.js:1175
+msgid "Clean/Unknown Files"
+msgstr "クリーン/不明なファイル"
+
+#: static/js/threat_profile/alert_profile_helpers.js:1196
+msgid "Attacker Events"
+msgstr "攻撃者イベント"
+
+#: static/js/threat_profile/alert_profile_helpers.js:1202
+msgid "Botnet Events"
+msgstr "Botnetイベント"
+
+#: static/js/threat_profile/alert_profile_helpers.js:1208
+msgid "URL Events"
+msgstr "URLイベント"
+
+#: static/js/threat_profile/alert_profile_helpers.js:2262
+#: static/js/threat_profile/alert_profile_helpers.js:2263
+msgid "Summary of"
+msgstr "Summary of"
+
+#: static/js/threat_profile/alert_profile_helpers.js:2331
+msgid "last detected"
+msgstr "最後の検出"
+
+#: static/js/threat_timeline_chart.js:47
+msgid "Threat Level"
+msgstr "脅威レベル"
+
+#: static/js/vm_status/column.js:5
+msgid "VM"
+msgstr "VM"
+
+#: static/js/vm_status/column.js:14
+msgid "Progress"
+msgstr "進行"
+
+#: static/js/vm_status/column.js:27
+msgid "VM ScreenShot"
+msgstr "VMスクリーンショット"
+
+#: static/js/vm_status/column.js:32
+msgid "Screenshot"
+msgstr "スクリーンショット"
+
+#: static/js/vm_status/controller.js:110
+msgid " Caution: The seleted VM clone will be stopped. </div>"
+msgstr ""
+
+#: static/js/vm_status/controller.js:115
+msgid ""
+" has been purged, the system may take a few seconds to fully stop the clone"
+msgstr ""
+
+#: static/js/vmimages/download_status.js:233
+#: static/js/vmimages/download_status.js:236
+msgid "No key available"
+msgstr "利用可能なキーがありません"
+
+#: static/js/vmimages/install.js:13
+msgid "All downloaded Images will be installed. Do you want to proceed?"
+msgstr "ダウンロードしたすべての画像がインストールされます。続行しますか？"
+
+#: static/js/vmimages/install.js:57
+msgid "VM Image is being installed."
+msgstr "VMイメージをインストールしています。"
+
+#: static/js/vmimages/main.js:93
+msgid "Double click to modify extensions."
+msgstr "拡張子を変更するにはダブルクリック。"
+
+#: static/js/vmimages/main.js:112
+msgid "Are you sure you want to delete this VM?"
+msgstr "このVMを削除してもよろしいですか？"
+
+#: static/js/vmimages/main.js:148
+msgid ""
+"Cannot be used because no Industry Security Signature is available. Please "
+"order the license from Fortinet"
+msgstr ""
+"業界のセキュリティ署名が利用できないため、使用できません。 Fortinetからライセ"
+"ンスを注文する"
+
+#: static/js/vmimages/main.js:185 static/js/vmimages/main.js:188
+msgid "No changes."
+msgstr "変化なし"
+
+#: static/js/vmimages/main.js:472
+msgid ""
+"Windows XP OS is no longer supported, new Windows XP clone is not allowed"
+msgstr ""
+
+#: static/js/vmimages/main.js:482
+msgid ""
+"Once this winXP VM clone is changed to 0, you will no longer be able to re-"
+"enable this winXP VM clone"
+msgstr ""
+
+#: static/js/vmimages/main.js:588
+msgid "Total Windows and customized clone numbers cannot exceed "
+msgstr ""
+"Windowsの合計数とカスタマイズされたクローン数はこれを超えることはできません"
+
+#: static/js/vmimages/main.js:600 static/js/vmimages/main.js:769
+msgid "Total Windows clone numbers cannot exceed "
+msgstr "Windowsの全クローン数を超えることはできません"
+
+#: static/js/vmimages/main.js:667
+msgid "VM type "
+msgstr " VMの種類"
+
+#: static/js/vmimages/main.js:667
+msgid ""
+" cannot be used because it is not activated and no extra Windows license is "
+"available. Please order new license from Fortinet "
+msgstr ""
+"追加のWindowsライセンスがないため使用できません。 フォーティネットから新しい"
+"ライセンスを注文してください "
+
+#: static/js/vmimages/main.js:683
+msgid "No extra "
+msgstr "追加料金はなし"
+
+#: static/js/vmimages/main.js:683
+msgid " license is available. Please order new license from Fortinet"
+msgstr ""
+"ライセンスが利用可能です。 フォーティネットから新しいライセンスを注文してくだ"
+"さい"
+
+#: static/js/vmimages/main.js:707
+msgid "No valid MACOSX contract"
+msgstr "有効なMAC OS X契約がない"
+
+#: static/js/vmimages/main.js:722
+msgid "No valid WindowsCloudVM contract"
+msgstr "有効なWindowsCloudVMの契約がない"
+
+#: static/js/vmimages/main.js:734 static/js/vmimages/main.js:749
+msgid "Please Enter Integer between 0 to "
+msgstr "0から56の間の整数を入力してください。"
+
+#: static/js/vmimages/main.js:784
+msgid "Your total Keys is "
+msgstr "クローンの合計数は "
+
+#: static/js/vmimages/main.js:785
+msgid "Your total Clone Number is "
+msgstr "クローンの合計数は "
+
+#: static/js/vmimages/main.js:786
+msgid "You have enabled "
+msgstr "有効にしました "
+
+#: static/js/vmimages/main.js:786
+msgid " VM types"
+msgstr " VMタイプ"
+
+#: static/js/vmimages/main.js:800
+msgid "Local VM clone cannot be 0"
+msgstr ""
+
+#: static/js/vmimages/main.js:834
+msgid "Total customized Clone number "
+msgstr "カスタマイズされたクローン数の合計"
+
+#: static/js/vmimages/main.js:835 static/js/vmimages/main.js:849
+#: static/js/vmimages/main.js:866
+msgid " cannot exceed "
+msgstr "超えてはいけない"
+
+#: static/js/vmimages/main.js:848
+#, fuzzy
+#| msgid "Total Android Clone number "
+msgid "Total Android/Linux Clone number "
+msgstr "合計Androidクローン数"
+
+#: static/js/vmimages/main.js:865
+msgid "Total WindowsCloud&Customized Clone number "
+msgstr "合計WindowsCloud＆カスタマイズクローン数"
+
+#: static/js/vmimages/main.js:881
+msgid "The Max Local Instances cannot exceed its limitation "
+msgstr "最大ローカルインスタンスはその制限を超えることはできません"
+
+#: static/js/vmimages/main.js:905
+msgid "Failed to apply changes: "
+msgstr "変更を適用できませんでした："
+
+#: static/js/vmimages/server_check.js:47
+msgid ""
+"Another VM Image is being installed, please wait for it to complete first."
+msgstr "その他のVMイメージがインストールされます。完了するまでお待ち下さい。"
+
+#: static/js/vmimages/server_check.js:67
+msgid ""
+"Proxy Server is now rebooting. You will be redirected to proxy server's "
+"dashboard after server is up."
+msgstr ""
+"プロキシサーバーがリブートしています。サーバーが起動した後、プロキシサーバー"
+"のダッシュボードにリダイレクトされます。"
+
+#: static/js/vmimages/server_check.js:77
+msgid ""
+"VM Image has been successfully installed. You will be redirected in 3 "
+"seconds."
+msgstr ""
+"VMイメージが正常にインストールされました。 3秒後にリダイレクトされます。"
+
+#: static/js/widgets.js:3
+msgid "Are you sure you want to restore widgets to default?"
+msgstr "ウィジェットをデフォルトに戻しますか？"
+
+#: static/lib/babel/babel.min.js:2
+msgid " "
+msgstr ""
+
+#: static/lib/babel/babel.min.js:15
+msgid "in"
+msgstr ""
+
+#: static/lib/babel/babel.min.js:15
+msgid "await"
+msgstr ""
+
+#: static/lib/kendoUI/js/kendo.all.min.js:44
+msgid ""
+"<td#=data.cssClass# role=\"gridcell\"><a tabindex=\"-1\" class=\"k-"
+"link#=data.linkClass#\" href=\"#=data.url#\" "
+msgstr ""
+
+#: static/lib/kendoUI/js/kendo.all.min.js:44
+msgid "<td role=\"gridcell\""
+msgstr ""
+
+#: static/lib/kendoUI/js/kendo.all.min.js:44
+msgid "<td class=\"k-alt\">"
+msgstr ""
+
+#: static/lib/kendoUI/js/kendo.all.min.js:54
+msgid "GET"
+msgstr ""
+
+#: static/lib/noVNC/core/rfb.js:278
+msgid "Must set host and port"
+msgstr ""
+
+#: static/lib/noVNC/core/rfb.js:556
+msgid "Disconnect timeout"
+msgstr ""
+
+#: static/lib/vuejs/polyfill.min.js:1
+#, fuzzy
+#| msgid "Delete"
+msgid "delete"
+msgstr "削除する"
+
+#: static/lib/vuejs/polyfill.min.js:1
+msgid "has"
+msgstr ""
+
+#: static/lib/vuejs/polyfill.min.js:1
+msgid "get"
+msgstr ""
+
+#: static/lib/vuejs/polyfill.min.js:2
+msgid "Wrong offset!"
+msgstr ""
+
+#: static/lib/vuejs/polyfill.min.js:2
+msgid "Wrong length!"
+msgstr ""
+
+#~ msgid "Name can not be empty."
+#~ msgstr "名前は空にできません。"
+
+#~ msgid "User (IP)"
+#~ msgstr "ユーザ(IP)"
+
+#~ msgid "Failed to generate report."
+#~ msgstr "レポートを生成できませんでした。"
+
+#~ msgid ""
+#~ "Enter a search string in the format of:\n"
+#~ "\n"
+#~ msgstr ""
+#~ "次のフォーマットで検索文字列を入力してください:\n"
+#~ "\n"
+
+#~ msgid "Please check your email or message for the token."
+#~ msgstr "あなたのEメールかメッセージを確認してください。"
+
+#~ msgid "Please select a VPC value"
+#~ msgstr "VPC値を選択してください"
+
+#~ msgid "Getting Security Groups options failed"
+#~ msgstr "セキュリティグループオプションの取得に失敗しました"
+
+#~ msgid "Failed save AWS config"
+#~ msgstr "AWS設定の保存に失敗しました"
+
+#~ msgid "Getting Zone options failed"
+#~ msgstr "ゾーンオプションの取得に失敗しました"
+
+#~ msgid "Victim IP"
+#~ msgstr "被害端末IPアドレス"
+
+#~ msgid "Release Quarantine"
+#~ msgstr "検疫を解除する"
+
+#~ msgid "Delete Quarantine"
+#~ msgstr "検疫を削除する"
+
+#~ msgid "Released"
+#~ msgstr "発売日"
+
+#~ msgid "Deleted"
+#~ msgstr "削除済み"
+
+#~ msgid ""
+#~ "Reboot is required for VM Images Delete to take effect. Do you want to "
+#~ "reboot now?"
+#~ msgstr ""
+#~ "VMイメージの削除を有効にするには、再起動が必要です。今すぐ再起動しますか？"
+
+#~ msgid "Finish Time"
+#~ msgstr "終了時間"
+
+#~ msgid "White/Black lists successfully updated."
+#~ msgstr "ホワイト/ブラックリストが正常に更新されました。"
+
+#~ msgid "List has been copied to clipboard."
+#~ msgstr "リストがクリップボードにコピーされました。"
+
+#~ msgid "This will remove all the lists under this group. Are you sure?"
+#~ msgstr ""
+#~ "これにより、このグループの下にあるすべてのリストが削除されます。よろしいで"
+#~ "すか?"
+
+#~ msgid "This "
+#~ msgstr "This "
+
+#~ msgid " has already existed in your whitelist"
+#~ msgstr " あなたのホワイトリストにすでに存在しています"
+
+#~ msgid " has already existed in your blacklist"
+#~ msgstr " あなたのブラックリストにすでに存在しています"
+
+#~ msgid "The URL Regex is invalid."
+#~ msgstr "URL Regexが無効です。"
+
+#, fuzzy
+#~ msgid "Incorrect Format: input must be a valid "
+#~ msgstr "不正なフォーマット: 入力文字数は次の値でなければなりません: "
+
+#, fuzzy
+#~ msgid "Start Time"
+#~ msgstr "開始:"
+
+#, fuzzy
+#~ msgid "Report Type"
+#~ msgstr "ファイルタイプ"
+
+#, fuzzy
+#~ msgid "Download Count"
+#~ msgstr "ログをダウンロード"
+
+#, fuzzy
+#~ msgid "Detection Period"
+#~ msgstr "検知"
+
+#, fuzzy
+#~ msgid "Actions"
+#~ msgstr "アクション"
+
+#~ msgid " others..."
+#~ msgstr " その他..."
+
+#~ msgid "Maximum Domain count has been reach, no more domain can be added."
+#~ msgstr ""
+#~ "ドメイン数が最大に到達しました。これ以上ドメインを追加することができませ"
+#~ "ん。"
+
+#~ msgid " for "
+#~ msgstr " for "
+
+#~ msgid "Report generate failed."
+#~ msgstr "レポートの生成に失敗しました。"
+
+#~ msgid "Total VM Clone number can not be zero on this unit."
+#~ msgstr "このユニットでは、VMクローンの合計数をゼロにすることはできません。"
+
+#~ msgid "Pages"
+#~ msgstr "ページ"
+
+#~ msgid "Total Logs"
+#~ msgstr "ログ合計"
+
+#~ msgid ""
+#~ "Are you sure you want to delete the selected devices or VDOM of the "
+#~ "devices?"
+#~ msgstr "このデバイスを削除してもよろしいですか？"
+
+#~ msgid "SSL port must be a integer between 0 and 65535."
+#~ msgstr "SSLポート番号は、0から65535の整数でなければなりません。"
+
+#~ msgid "VM Interaction: port "
+#~ msgstr "VM相互作用：ポート "
+
+#~ msgid "Sersdfsdfial"
+#~ msgstr "シリアル番号"
+
+#~ msgid "File Count"
+#~ msgstr "ファイル数"
